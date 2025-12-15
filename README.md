@@ -74,14 +74,14 @@ Program **Pokedex CLI** adalah aplikasi berbasis *Command Line Interface* (CLI) 
 
 ---
 
-## Penutup
+## Penutup/Notes
 
 Program ini dibuat sebagai bentuk penerapan konsep dasar Algoritma dan Pemrograman menggunakan bahasa C++ dengan struktur yang rapi, logika jelas, dan mudah dipahami.
 
-**Nama Mahasiswa: Kresna Bayu W.**
+**Nama:** Kresna Bayu W.
 
-**NPM: 140810230025**
+**NPM:** 140810230025
 
-**Kelas: B**
+**Kelas:**  B
 
 **Mata Kuliah:** Algoritma dan Pemrograman
