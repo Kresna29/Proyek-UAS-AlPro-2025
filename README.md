@@ -74,7 +74,7 @@ Program **Pokedex CLI** adalah aplikasi berbasis *Command Line Interface* (CLI) 
 
 ---
 
-## Penutup/Notes
+## Penutup
 
 Program ini dibuat sebagai bentuk penerapan konsep dasar Algoritma dan Pemrograman menggunakan bahasa C++ dengan struktur yang rapi, logika jelas, dan mudah dipahami.
 
