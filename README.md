@@ -42,20 +42,6 @@ Program **Pokedex CLI** adalah aplikasi berbasis *Command Line Interface* (CLI) 
 
 ---
 
-## Struktur Program (Sesuai ALPRO)
-
-Struktur file program disusun sesuai standar Algoritma dan Pemrograman:
-
-```
-DEKLARASI FUNGSI (Prototype)
-MAIN
-DEFINISI FUNGSI
-```
-
-Tidak terdapat definisi fungsi pada bagian deklarasi.
-
----
-
 ## Konsep Algoritma yang Digunakan
 
 * **Array of Struct** untuk menyimpan data Pokémon
