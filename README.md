@@ -1,4 +1,4 @@
-# POKEDEX CLI - UAS Praktikum Algoritma dan Pemrograman
+# POKEDEX CLI
 
 ## Deskripsi Program
 
