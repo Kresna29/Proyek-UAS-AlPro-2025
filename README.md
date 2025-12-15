@@ -1,10 +1,8 @@
-# POKEDEX CLI — UAS Praktikum Algoritma dan Pemrograman
+# POKEDEX CLI - UAS Praktikum Algoritma dan Pemrograman
 
 ## Deskripsi Program
 
 Program **Pokedex CLI** adalah aplikasi berbasis *Command Line Interface* (CLI) yang dibuat menggunakan bahasa **C++**. Program ini bertujuan untuk mengelola data Pokémon seperti pada konsep **Pokémon GO**, di mana pengguna dapat memiliki beberapa Pokémon dengan nama yang sama tetapi atribut yang berbeda (power, shiny, dan tipe).
-
-Program ini dibuat untuk memenuhi **Ujian Akhir Semester (UAS) Praktikum Algoritma dan Pemrograman**.
 
 ---
 
