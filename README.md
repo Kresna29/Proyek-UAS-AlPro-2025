@@ -57,12 +57,12 @@ Program **Pokedex CLI** adalah aplikasi berbasis *Command Line Interface* (CLI) 
 1. Compile program:
 
    ```bash
-   g++ Pokedex.cpp -o pokedex
+   g++ Pokedex.cpp -o Pokedex
    ```
 2. Jalankan program:
 
    ```bash
-   ./pokedex
+   ./Pokedex
    ```
 
 ---
