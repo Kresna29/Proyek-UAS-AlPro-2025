@@ -1,0 +1,3 @@
+4|Charmander|Fire|-|0|635
+4|Charmander|Fire|-|1|984
+9|Venusaur|Grass|Poison|1|2486
